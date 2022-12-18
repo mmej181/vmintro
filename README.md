@@ -1,6 +1,3 @@
-<p align="center">
-<img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
-</p>
 
 <h1>Getting started with Virtual Machines</h1>
 This project is a tutorial on creating and using a virtual machine in Azure. <br />
