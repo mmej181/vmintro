@@ -3,9 +3,9 @@
 This project is a tutorial on creating and using a virtual machine in Azure. <br />
 
 
-<h2>You will learn</h2>
+<h2>How to:</h2>
 
-How to:
+
 <p>
 Create Azure Virtual Machines </p>
 <p>
