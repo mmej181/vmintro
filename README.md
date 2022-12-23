@@ -1,5 +1,5 @@
 
-<h1>Getting started with Virtual Machines</h1>
+<h1>Getting Started with Virtual Machines</h1>
 This project is a tutorial on creating and using a virtual machine in Azure. <br />
 
 
