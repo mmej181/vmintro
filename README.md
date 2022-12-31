@@ -40,13 +40,13 @@ Step 3: Search ‘Resource Groups’ and create a Resource Group. When setting u
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-Step 4: Search ‘Virtual Machines’ and click Create on the option titled ‘Azure Virtual Machine’.
+Step 4: Create a Storage Account which will hold your Virtual Machine. Ensure it is also in the same region as your resource group.
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-Step 5: Choose the location of virtual machine to be in the resource group that you created previously.
+Step 5: Search ‘Virtual Machines’ and click Create to select the option titled ‘Azure Virtual Machine’. Choose the location of the virtual machine to be in the resource group and storage account that you created previously.
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
